@@ -1,0 +1,132 @@
+.Center {
+    background-color: rgb(196, 249, 255);
+    padding: 5px;
+    margin-bottom: px;
+}
+h1 {
+    margin-top: 0px;
+    
+        font-family: "Sacramento", serif;
+        font-weight: 200;
+        font-style:normal ;
+        font-size:xxx-large;  
+}
+
+h2 {
+    font-family: "playwrite VN";
+}
+
+body {
+    margin-top: 0px;
+    margin-left: 0;
+    margin-right: 0;
+    text-align: center;
+    font-family: Verdana, sans-serif;
+    background-color: rgb(255, 141, 100);
+}
+
+/*.second {
+    width: 33.333%;
+    height: 220px;
+   background-color: rgb(150, 252, 252);
+   position: relative;
+   
+    
+}
+
+.third {
+    
+    width: 33.333%;
+    height: 220px;
+    background-color:rgb(200, 150, 246) ;
+    position: relative;
+    left: 33.333%;
+    bottom: 220px;
+    
+}
+
+.fourth {
+    width: 33.333%;
+    height: 220px;
+    background-color: bisque;
+    position: relative;
+    left: 66.677%;
+    bottom: 440px;
+
+}*/
+
+.bored {
+    text-decoration: underline;
+}
+
+.img {
+    position: relative;
+    right: 250px;
+    top: px;
+    
+}
+
+.heading
+{
+    font-style: "Smooch Sans", serif;
+    
+    
+}
+
+.second{
+    font-family: "playwrite VN"
+}
+.para {
+    position: relative;
+}
+hr {
+    background-color: rgb(255, 141, 100);
+   border-style:dotted none none ;
+   border-width: 7.5px; 
+   width: 3.5%;
+   border-color: rgb(234, 207, 179);
+}
+
+.hea {
+    font-family: "Bebas Neue", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .links{
+    position: relative;
+    top: 525px;
+    font-family: "playwrite VN"
+    
+  }
+  .link {
+     
+        font-family: "Jersey 15", serif;
+        font-weight: 400;
+        font-style: normal;
+        position: relative;
+        top: 505px;
+        font-size: 20px;
+  }
+  .lin {
+    .bebas-neue-regular {
+        font-family: "Bebas Neue", serif;
+        font-weight: 400;
+        font-style: normal;
+      }
+      
+  }
+
+  hr {
+    background-color: #CAF0F8;
+   border-style:dotted none none ;
+   border-width: 7.5px; 
+   width: 15%;
+   border-color: #56CFE1;
+}
+
+  
+
+  
+  
+  
